@@ -37,4 +37,4 @@ init:
                                 "But... I just couldn't. Instead, I committed myself to what I wanted, and now here I am - an Espeon. The Sun Pokémon."
                                 "Symbol of new days and new beginnings!\n"
                             "Now I’ll have to prove myself at Twitch Academy. "
-                                "I wonder what my classmates will be like... I hope I can make some friends!")   
+                                "I wonder what my classmates will be like... I hope I can make some friends!")
